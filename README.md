@@ -1,6 +1,6 @@
 # Ryan Tan Jin Hao's Portfolio
 
-Welcome! This repository hosts my data science and analytics portfolio.  
+Welcome! This repository hosts my data analytics portfolio.  
 Visit the website here 👉 [https://rjhtan.github.io](https://rjhtan.github.io)
 
 ## 📄 Project List
